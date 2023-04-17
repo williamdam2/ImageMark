@@ -1,0 +1,14 @@
+F:\c#\ws\ImageLock\V2\ImageMark\ImageMark\bin\Debug\ImageMark.exe
+F:\c#\ws\ImageLock\V2\ImageMark\ImageMark\bin\Debug\ImageMark.pdb
+F:\c#\ws\ImageLock\V2\ImageMark\ImageMark\bin\Debug\Microsoft.WindowsAPICodePack.dll
+F:\c#\ws\ImageLock\V2\ImageMark\ImageMark\bin\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+F:\c#\ws\ImageLock\V2\ImageMark\ImageMark\bin\Debug\Microsoft.WindowsAPICodePack.xml
+F:\c#\ws\ImageLock\V2\ImageMark\ImageMark\bin\Debug\Microsoft.WindowsAPICodePack.Shell.xml
+F:\c#\ws\ImageLock\V2\ImageMark\ImageMark\obj\Debug\ImageMark.csproj.AssemblyReference.cache
+F:\c#\ws\ImageLock\V2\ImageMark\ImageMark\obj\Debug\ImageMark.Form1.resources
+F:\c#\ws\ImageLock\V2\ImageMark\ImageMark\obj\Debug\ImageMark.Properties.Resources.resources
+F:\c#\ws\ImageLock\V2\ImageMark\ImageMark\obj\Debug\ImageMark.csproj.GenerateResource.cache
+F:\c#\ws\ImageLock\V2\ImageMark\ImageMark\obj\Debug\ImageMark.csproj.CoreCompileInputs.cache
+F:\c#\ws\ImageLock\V2\ImageMark\ImageMark\obj\Debug\ImageMark.csproj.CopyComplete
+F:\c#\ws\ImageLock\V2\ImageMark\ImageMark\obj\Debug\ImageMark.exe
+F:\c#\ws\ImageLock\V2\ImageMark\ImageMark\obj\Debug\ImageMark.pdb
